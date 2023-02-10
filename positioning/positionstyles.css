@@ -163,7 +163,7 @@ grid-gap: 20px;
 } 
 .yellow5 {
   width: 100%; 
-  height: 300px; 
+  height: 250px; 
   background-color: gold;
   z-index: 10; 
 
@@ -177,8 +177,8 @@ grid-gap: 20px;
 .content6 {
   /* This is the parent of the activity 6 boxes. */
   display: grid;
-  grid-template-columns:repeat(6, 118px) ;
-  grid-template-rows: repeat(6, 110px);
+  grid-template-columns:repeat(6, 147px) ;
+  grid-template-rows: repeat(6, 147px);
 }
 .red6 {
   width: 100%; 
